@@ -1,3 +1,10 @@
+![device_info](https://github.com/user-attachments/assets/6cb45885-887c-435b-aee4-53d832e4a7dd)
+![disable_auto_ota](https://github.com/user-attachments/assets/247cd2d7-306f-424b-aa1c-9bd41103b497)
+![install_inactive_slot](https://github.com/user-attachments/assets/4edd29d8-2f7f-4264-a472-8edcad01360c)
+![logo](https://github.com/user-attachments/assets/4317b0fb-0bc9-442c-abd4-e557443d7b5a)
+![manager_reboot](https://github.com/user-attachments/assets/db7ee5bc-1b88-4045-947f-aec1771eb33e)
+![ota_done](https://github.com/user-attachments/assets/3158e419-f384-4480-87e0-fd2842bb5393)
+![restore_img](https://github.com/user-attachments/assets/c0eba1e9-ce70-48c2-bd7d-2e586bea6543)
 # Magisk Changelog
 
 ### v27.0
