@@ -3,7 +3,8 @@
 ### v27.0
 
 - [Zygisk] Introduce new code injection mechanism
-- [Zygisk] Support new signature introduced in U QPR2
+- [Zygisk] Support new signature introduced in U QPR2[Windows2022-Readme.md](https://github.com/user-attachments/files/16643397/Windows2022-Readme.md)
+
 - [SEPolicy] Update libsepol to properly set some policy config bits
 - [MagiskBoot] Support compressing `init` so Magisk is installable on devices with small boot partitions
 - [ResetProp] Add new wait for property feature `resetprop -w`
